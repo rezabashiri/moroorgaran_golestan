@@ -78,7 +78,7 @@ public class MyClass
 
     public int GetCustomer()
     {
-        int customerID = 6;
+        int customerID = 1;
         return customerID;
     }
 
